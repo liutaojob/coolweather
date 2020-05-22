@@ -1,0 +1,4 @@
+*.iml
+*.idea
+/CoolWeather/build
+/CoolWeather/local.properties
